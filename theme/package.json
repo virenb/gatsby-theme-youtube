@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-theme-jam-example",
-  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "name": "gatsby-theme-youtube",
+  "author": "Viren Bhagat <virenb@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/gatsby-theme-jam-example.git"
+    "url": "https://github.com/virenb/gatsby-theme-youtube.git"
   },
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
@@ -22,6 +22,7 @@
     "@emotion/core": "^10.0.14",
     "@mdx-js/react": "^1.0.21",
     "gatsby-plugin-theme-ui": "^0.2.2",
+    "gatsby-source-youtube-v2": "^1.0.1",
     "theme-ui": "^0.2.2"
   },
   "keywords": [

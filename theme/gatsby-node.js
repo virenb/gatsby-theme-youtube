@@ -6,12 +6,7 @@ exports.createPages = ({ actions, reporter }) => {
 		path: '/',
 		component: require.resolve('./src/templates/page.js'),
 		context: {
-			heading: 'Gatsby Theme YouTube',
-			content: `
-        <p>
-          Hello Gatsby Theme World!
-        </p>
-      `
+			heading: 'Gatsby Theme YouTube'
 		}
 	});
 };

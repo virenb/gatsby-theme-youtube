@@ -55,7 +55,7 @@ export default {
 		},
 		h1: {
 			color: 'text',
-			fontSize: 5,
+			fontSize: 2,
 			lineHeight: 'heading'
 		}
 	}

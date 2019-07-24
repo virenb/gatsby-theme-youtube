@@ -5,6 +5,10 @@
     "type": "git",
     "url": "https://github.com/virenb/gatsby-theme-youtube.git"
   },
+  "bugs": {
+    "url": "https://github.com/virenb/gatsby-theme-youtube/issues"
+  },
+  "homepage": "https://github.com/virenb/gatsby-theme-youtube#readme",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
